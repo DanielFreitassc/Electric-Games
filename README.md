@@ -47,7 +47,7 @@ O Eletric Games é um projeto desenvolvido por bolsistas de engenharia de comput
 ## Implementação Técnica
 
 - **Backend:**
-  - PHP foi utilizado para a lógica do servidor e interação com o banco de dados, se aplicável.
+  - PHP foi utilizado para a lógica do servidor e interação com o banco de dados.
 
 - **Frontend:**
   - JavaScript, HTML e CSS foram usados para criar a interface do usuário interativa e responsiva.
