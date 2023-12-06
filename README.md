@@ -42,7 +42,7 @@ O Eletric Games é um projeto desenvolvido por bolsistas de engenharia de comput
   - Pode cadastrar o número da questão associada às respostas.
 
 - **Marcação de Respostas:**
-  - O professor pode marcar as caixas dos alunos como verde (correta), amarelo (em análise) e vermelho (incorreta) de acordo com os acertos das questões.
+  - O professor pode marcar as caixas dos alunos como verde (liberado), amarelo (em análise) e vermelho (bloqueado) de acordo com os acertos das questões.
 
 ## Implementação Técnica
 
