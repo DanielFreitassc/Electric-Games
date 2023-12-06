@@ -26,11 +26,11 @@ O Eletric Games é um projeto desenvolvido por bolsistas de engenharia de comput
   - Os alunos têm um identificador de equipe na tela, indicando a qual grupo eles pertencem.
 
 - **Envio de Fotos:**
-  - Os alunos podem enviar fotos associadas a quadrados numerados de 1 a 40.
+  - Os alunos podem enviar fotos associadas a quadrados numerados .
   - A cor do quadrado indica o status do envio: verde (liberado), amarelo (em análise pelo professor) e vermelho (bloqueado).
 
 - **Feedback de Respostas:**
-  - Se um aluno enviar uma foto da resposta da questão, o sistema exibirá o ID do quadrado específico e o nome da equipe.
+  - Se um aluno enviar uma foto da resposta da questão, o sistema exibirá um tela de sucesso.
 
 ### 3. Tela do Professor
 
