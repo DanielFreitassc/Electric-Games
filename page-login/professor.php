@@ -1,5 +1,5 @@
 <?php
-$senhaCorreta = 's@tc2023';
+$senhaCorreta = 'XxXxXxXxXxX';
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $senha = $_POST['senha'];
