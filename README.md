@@ -56,12 +56,10 @@ O Eletric Games é um projeto desenvolvido por bolsistas de engenharia de comput
   - Nginx foi configurado para hospedar o site, garantindo uma performance eficiente.
 
 ## Como Executar o Projeto
-
-1. Clone o repositório do projeto.
-2. Configure um servidor Nginx para hospedar o site.
+1. Configure um servidor Nginx para hospedar o site.
+2. Clone o repositório do projeto.
 3. Certifique-se de que o ambiente PHP está configurado corretamente.
-4. Importe e configure o banco de dados, se aplicável.
-5. Acesse o site pelo navegador.
+4. Acesse o site pelo navegador.
 
 ## Considerações Finais
 
