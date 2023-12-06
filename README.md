@@ -5,8 +5,6 @@
 O Eletric Games é um projeto desenvolvido por bolsistas de engenharia de computação e engenharia de software. O objetivo do projeto é criar uma plataforma online para a realização de competições entre alunos, onde professores podem criar perguntas e os alunos respondem, incluindo o envio de fotos como parte das respostas. O sistema é compatível com dispositivos móveis, como smartphones.
 
 ### Tecnologias Utilizadas
-
-- **Linguagens de Programação:**
   - PHP para o backend
   - JavaScript para interatividade do frontend
   - HTML para a estrutura da página
