@@ -18,12 +18,15 @@ O Eletric Games é um projeto desenvolvido por bolsistas de engenharia de comput
 ### 1. Identificação de Usuários
 
 - O site apresenta uma tela inicial com botões para os perfis "Aluno" e "Professor".
+![image](https://github.com/DanielFreitassc/Electric-Games/assets/129224303/a90d0302-3488-4d61-b91b-e2a935cc72ad)
+
 - Os usuários selecionam seu perfil (Aluno ou Professor) para acessar as funcionalidades correspondentes.
 
 ### 2. Tela do Aluno
 
 - **Identificador de Equipe:**
   - Os alunos têm um identificador de equipe na tela, indicando a qual grupo eles pertencem.
+    ![image](https://github.com/DanielFreitassc/Electric-Games/assets/129224303/9bda0ea5-e9cd-4b4e-ae7e-507b5d14afb3)
 
 - **Envio de Fotos:**
   - Os alunos podem enviar fotos associadas a quadrados numerados .
