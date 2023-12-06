@@ -1,0 +1,52 @@
+body {
+    background: url(https://images3.alphacoders.com/129/1298880.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Press Start 2P', cursive;
+    color: #ffffff;
+}
+
+.professor-button {
+    box-shadow: 3px 3px rgba(0, 0, 0, 0.308);
+    width: 250px;
+    background-color: rgb(132, 0, 255);
+    color: white;
+    padding: 10px 20px;
+    font-size: 35px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+}
+  
+.aluno-button {
+    box-shadow: 3px 3px rgba(0, 0, 0, 0.308);
+    width: 250px;
+    background-color: rgb(132, 0, 255);
+    color: white;
+    padding: 10px 20px;
+    font-size: 35px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+}
+#central{
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+ 
+.aluno-button:hover{
+    background-color:  rgb(58, 33, 82);
+    transition: 0.5s;
+
+}
+.professor-button:hover{
+    background-color:  rgb(58, 33, 82);
+    transition: 0.5s;
+
+
+}
+

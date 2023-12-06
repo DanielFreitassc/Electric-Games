@@ -1,0 +1,41 @@
+/* Estilize as opções de rádio e seus rótulos */
+.radio-group {
+    display: inline-flex;
+    align-items: center;
+    padding: 40px;
+    background-color: #c7c7c700;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: all 0.3s ease;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Adiciona sombra */
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  /* Estilize os rótulos quando o mouse passar por cima */
+  .radio-group:hover {
+    background-color: #00630dce; /* Cor de fundo quando o mouse passa por cima */
+    border-color: #00630dce; /* Cor da borda quando o mouse passa por cima */
+    color: #fff; /* Cor do texto quando o mouse passa por cima */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4); /* Sombra mais intensa no hover */
+  }
+  
+  .radio-group input[type="radio"] + label:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 20px;
+    height: 20px;
+    border: 2px solid #007BFF;
+    border-radius: 50%;
+    background-color: #fff;
+    transition: border-color 0.3s;
+}
+
+.radio-group input[type="radio"]:checked + label:before {
+    background-color: #007BFF;
+    border-color: #007BFF;
+}
